@@ -1123,7 +1123,7 @@ section.lazy-placeholder:after {
 }
 .cid-saLgnBOKyp {
   padding-top: 135px;
-  padding-bottom: 75px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-saLgnBOKyp h2 {
@@ -1182,6 +1182,12 @@ section.lazy-placeholder:after {
   .cid-saLgnBOKyp .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-saLgnBOKyp H2 {
+  text-align: center;
+}
+.cid-saLgnBOKyp P {
+  text-align: center;
 }
 .cid-saLgKmPZk2 {
   padding-top: 15px;
@@ -2291,7 +2297,7 @@ section.lazy-placeholder:after {
 .cid-saQoRWmZ2D {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-saQoRWmZ2D .mbr-section-btn > * {
   margin: 0;
@@ -2358,7 +2364,7 @@ section.lazy-placeholder:after {
 .cid-saQplM8r6g {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-saQplM8r6g .mbr-section-btn > * {
   margin: 0;
@@ -2437,7 +2443,7 @@ section.lazy-placeholder:after {
 .cid-saQpkquL7Z {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-saQpkquL7Z .mbr-section-btn > * {
   margin: 0;
